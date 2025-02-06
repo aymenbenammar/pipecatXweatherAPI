@@ -5,6 +5,7 @@ __pycache__/
 venv12/
 # C extensions
 *.so
+launch.json
 .env
 # Distribution / packaging
 .Python

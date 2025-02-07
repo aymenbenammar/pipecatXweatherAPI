@@ -1,3 +1,4 @@
-python-dotenv
-loguru
-pipecat-ai[openai,silero,daily]
+python-dotenv==1.0.1
+loguru==0.7.3
+pipecat-ai[openai,silero,daily,deepgram]==0.0.56
+pipecat-ai-flows==0.0.13
